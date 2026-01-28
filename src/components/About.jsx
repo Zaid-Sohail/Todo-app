@@ -1,3 +1,5 @@
+import Navbar from "./Navbar";
+
 function About() {
   return (
     <section id="about" className="about">
